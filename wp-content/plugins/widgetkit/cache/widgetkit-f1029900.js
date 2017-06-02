@@ -1,0 +1,1 @@
+var widgetkitajax="http://192.168.41.59/eat-theme-wp/wp-admin/admin-ajax.php?action=widgetkit&ajax=1";

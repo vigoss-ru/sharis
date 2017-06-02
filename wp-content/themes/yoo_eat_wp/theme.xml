@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme>
+	<name>Eat</name>
+	<version>1.0.8</version>
+	<creationDate>March 2015</creationDate>
+	<author>YOOtheme</author>
+	<authorEmail>info@yootheme.com</authorEmail>
+	<authorUrl>http://www.yootheme.com</authorUrl>
+    <copyright>Copyright (C) YOOtheme GmbH</copyright>
+    <license>YOOtheme Proprietary Use License (http://www.yootheme.com/license)</license>
+    <description>Eat is the July 2014 theme of the YOOtheme club. It is based on YOOtheme's Warp theme framework. NOTE: It is not free or public. This theme is for members of the YOOtheme club only.</description>
+    <positions>
+        <position settings="assignment">search</position>
+        <position settings="assignment">logo</position>
+        <position settings="assignment">logo-small</position>
+        <position settings="title assignment">menu</position>
+        <position settings="title assignment">toolbar-l</position>
+        <position settings="title assignment">toolbar-r</position>
+        <position settings="assignment">headerbar</position>
+        <position settings="assignment">breadcrumbs</position>
+        <position settings="class assignment display">fullscreen</position>
+        <position>top-a</position>
+        <position settings="class assignment display">top-image</position>
+        <position>top-b</position>
+        <position>top-c</position>
+        <position settings="class assignment display">bottom-image</position>
+        <position>bottom-a</position>
+        <position>bottom-b</position>
+        <position>bottom-c</position>
+        <position>main-top</position>
+        <position>main-bottom</position>
+        <position>sidebar-a</position>
+        <position>sidebar-b</position>
+        <position settings="assignment">footer</position>
+        <position settings="title assignment">offcanvas</position>
+        <position settings="">debug</position>
+    </positions>
+</theme>

@@ -1,0 +1,29 @@
+// Copyright (C) YOOtheme GmbH, YOOtheme Proprietary Use License (http://www.yootheme.com/license) */
+
+// Variables
+// ========================================================================
+
+
+// Additional style fixes
+// ========================================================================
+
+.woocommerce,
+.woocommerce-page {
+
+    // Button overrides
+    a.button,
+    button.button,
+    input.button,
+    input[type="submit"],
+    #respond input#submit,
+    #content input.button { font-weight: lighter; }
+
+    // Price font weight reset
+    ul.products li.product .price { font-weight: lighter; }
+
+    .widget_price_filter .ui-slider .ui-slider-range { border: none; }
+
+    table.shop_table tfoot tr:first-child th,
+    table.shop_table tfoot tr:first-child td { border-top-color: darken(@global-border, 10%); }
+
+}
